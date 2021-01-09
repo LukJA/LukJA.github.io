@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Luke J Andrews
-description: My blog/homepage/resume 
+description: My blog/homepage/resume  
 
 show_downloads: "true"
+logo: /assets/img/chain.png
