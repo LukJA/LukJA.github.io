@@ -9,4 +9,4 @@ They get stored in a notion database, which I will upload here from time to time
 
 ## Directory
 
-_Release 0.1_ - [10/1/21](/notion/Links 9d8e06926d1948e3b4bffc6f2b319056/)
+_Release 0.1_ - [10/1/21](/notion/Links 9d8e06926d1948e3b4bffc6f2b319056)
