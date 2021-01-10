@@ -1,9 +1,18 @@
 ---
+title: Home 
 ---
+
 {% include analytics.html %}
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+
+{% comment %} 
+    This title reflects at the top of the index page
+{% endcomment %}
 # Luke J Andrews
 
-_Software engineer (and sometimes student) based in Cambridge, UK_ <br>
+_Software engineer (and sometimes student) based in Cambridge/London, UK_ <br>
 
 Luke J Andrews
 L.J.Andrews.UK@gmail.com}

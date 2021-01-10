@@ -1,0 +1,7 @@
+Jekyll is case insensitive with filenames and directories
+
+to add notion link sets, copy them into the subfolder and double directory them
+
+{% comment %} 
+    These commments will not include inside the source.
+{% endcomment %}
