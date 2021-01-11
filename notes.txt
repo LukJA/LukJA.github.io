@@ -1,6 +1,7 @@
 Jekyll is case insensitive with filenames and directories
 
-to add notion link sets, copy them into the subfolder and double directory them
+to add notion link sets, copy them into the subfolder - broken locally but works on gh
+Locally they need to be doubled dir'd for some reason 
 
 {% comment %} 
     These commments will not include inside the source.
