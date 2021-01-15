@@ -5,17 +5,22 @@ title: 💻👨🏻‍🎓🚴🏼‍♂️🚣🏼‍♂️🦾
 
 # This controls the left sidebar content 
 description: > 
-  Luke J Andrews - blog et al
+  Luke J Andrews - <em>blog et al</em>
   <br></br>
-  Pages: <br>
-  <a href="/"> CV </a><br>
-  <a href="/thearchive"> The Archive </a>
+  <a href="/"> -> CV </a><br>
+  <a href="/thearchive"> -> The Archive </a>
   <br></br>
-  Media: <br>
-  <a href="https://www.linkedin.com/in/luke-andrews-758690154/"> Linked In </a>
+  <b>Projects:</b> <br>
+  <a href="https://github.com/LukJA/python-spydagram"> Spydagram </a> <br>
+  <a href="https://lukejandrews.com/NoTeX-Concept/"> NoteX </a> 
   <br></br>
-  Contact: <br>
-  L.J.Andrews.UK@gmail.com <br>
+  <b>Media:</b> <br>
+  <a href="https://www.linkedin.com/in/luke-andrews-758690154/"> Linked In </a> <br>
+  <a href="https://github.com/LukJA/"> GitHub </a> <br>
+  <a href="https://gitlab.com/lja45/"> GitLab </a>
+  <br></br>
+  <b>Contact:</b> <br>
+  <a href="mailto:L.J.Andrews.UK@gmail.com">L.J.Andrews.UK@gmail.com </a> <br>
 
 show_downloads: "false"
 logo: /assets/img/chain.png
