@@ -20,34 +20,33 @@ extra_info: "This will show up on the listing"
 This will appear on the listing and in the main post
 <!--more-->
 
-Posts List:
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+Images:
+![Include an Image](/assets/img/chain.png)
 
-Tag and Tagged Post list:
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+<br>
 
-Post list with excerpts:
+_Read another post?_
+
+## Latest:
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:1 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      {{ post.date | date_to_string }} - {{ post.author }} <br>
+      {{ post.extra_info }}
       {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
 
-Images:
-![Include an Image](/assets/img/chain.png)
+## Recent:
+<ul>
+  {% for post in site.posts offset:1 limit:2 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a><br>
+      {{ post.date | date_to_string }} - {{ post.author }} <br>
+      {{ post.extra_info }}
+    </li>
+  {% endfor %}
+</ul>
+
