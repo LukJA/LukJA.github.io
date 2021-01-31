@@ -20,7 +20,7 @@ _Hardware/Software engineer (and sometimes student) based in Cambridge/London, U
     [Email](mailto:email@email.com)
 {% endcomment %}
 
-[Website](https://lukejandrews.com/) / [LinkedIn](https://www.linkedin.com/in/lukejandrews/) / [GitHub](https://github.com/LukJA/) / [Twitter](https://twitter.com//) / [GitLab](https://gitlab.com/lja45)
+[Website](https://lukejandrews.com/) / [LinkedIn](https://www.linkedin.com/in/lukejandrews/) / [GitHub](https://github.com/LukJA/) / [[Matrix]](https://matrix.to/#/@lukeja:matrix.org) / [GitLab](https://gitlab.com/lja45)
 
 
 ## Experience
