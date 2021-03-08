@@ -14,7 +14,7 @@ title: Home
 
 # Luke J Andrews
 
-_Hardware/Software engineer (and sometimes student) based in Cambridge/London, UK_ <br>
+_Hardware/Software engineer (and sometimes student) Cambridge/London, UK_ <br>
 
 {% comment %} 
     [Email](mailto:email@email.com)
@@ -24,6 +24,14 @@ _Hardware/Software engineer (and sometimes student) based in Cambridge/London, U
 
 
 ## Experience
+
+**PTUG Hardware Engineer** @ [Arm](https://www.arm.com/) _(March 2021 - present)_ <br>
+Part Time Undergraduate Engineer in the CPU division, Cambridge, UK.
+<br>
+
+**UKESF University Scholar** @ [The UKESF](https://www.ukesf.org/universities/scholarship-scheme/) _(March 2021 - present)_ <br>
+Undergraduate Scholar supported by Arm, Cambridge, UK.
+<br><br>
 
 **Software Engineer Intern** @ [Roku Europe](https://www.roku.com/en-gb/) _(July 2019 - Oct 2019)_ - 3mo <br>
 Part of the new products development division, in Cambridge, UK.
