@@ -14,7 +14,9 @@ title: Home
 
 # Luke J Andrews
 
-_Hardware/Software engineer (and sometimes student) Cambridge/London, UK_ <br>
+_Undergraduate Student based in Cambridge/London, UK_ <br>
+
+All writings, comments and opinions (if any slip through) are my own and do not reflect the views of any affiliations
 
 {% comment %} 
     [Email](mailto:email@email.com)
@@ -98,6 +100,11 @@ _2008 - 2013_ -  St Paul's Juniors, London
 
 
 ## Honors & Awards
+
+**UKESF Scholarship**<br>
+_(Mar 2021 ~ The UK Electronic Skills Foundation_
+
+- UKESF Scholar sponsored by the Arm Cambridge
 
 **JA Europe Company of the Year**<br>
 _(Jul 2018 ~ JA Europe)_
