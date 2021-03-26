@@ -16,3 +16,5 @@
 | Supernotes | Hosted markdown notes | Paid | [web](https://supernotes.app/) |
 | **Excalidraw** | Sketch in the browser | OSS | [github](https://github.com/excalidraw/excalidraw) |
 | Ticker | CLI Stocks and Options | OSS | [GitHub](https://github.com/achannarasappa/ticker) |
+| GameStonk Terminal | Next best thing after Bloomberg | OSS | [GitHub](https://github.com/DidierRLopes/GamestonkTerminal) |
+| Focalboard | Self Hosted Notion Alternative | OSS | [GitHub](https://github.com/mattermost/focalboard) |

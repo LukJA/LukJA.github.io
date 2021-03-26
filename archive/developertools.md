@@ -5,7 +5,10 @@
 
 | Name        | Description | Src     |
 | :---        |    :----:   |          ---: |
-| CodeMirror | Extensible Code Editor | [web](https://codemirror.net/6/) |
+| **FastZ** | Python Impedance Calculator | [GitHub](https://github.com/whileman133/fastZ) |
+| **Manim** | Pythonic Mathematic Animations | [GitHub](https://3b1b.github.io/manim/index.html) |
+| VS Themes | Create custom VSC themes quickly | [web](https://themes.vscode.one/) |
+| CodeMirror | Extensible web widgetCode Editor | [web](https://codemirror.net/6/) |
 | **Github1S** | Open a repo in VSCode in a browser | [web](https://github.com/conwnet/github1s) |
 | DevBook | Unified Search Engine | [web](https://usedevbook.com/) |
 | ZeroTier | hosted SDWan & VPN | [web](https://www.zerotier.com/) |
